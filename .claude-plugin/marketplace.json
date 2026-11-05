@@ -1,0 +1,15 @@
+{
+  "name": "hp-autocad",
+  "description": "Bo skill ban ve nha o Viet Nam cua Nguyen Huu Phuc.",
+  "owner": {
+    "name": "Nguyen Huu Phuc"
+  },
+  "plugins": [
+    {
+      "name": "hp-skill-autocad-vn",
+      "source": "./",
+      "description": "Dung ho so ban ve nha o Viet Nam theo quy dinh rieng cua Nguyen Huu Phuc.",
+      "version": "1.0.0-hp.1"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "hp-skill-autocad-vn",
+  "version": "1.0.0-hp.1",
+  "description": "Bo skill dung ho so ban ve nha o Viet Nam, mac dinh theo quy dinh rieng cua Nguyen Huu Phuc: kien truc, boc tach phan tho, soat ban ve, xuat DWG. Sua doi tu vn-autocad-skill cua andyluu98.",
+  "author": {
+    "name": "Nguyen Huu Phuc"
+  },
+  "license": "Apache-2.0",
+  "keywords": ["autocad", "dxf", "dwg", "kien-truc", "boc-tach", "du-toan", "vietnam"]
+}
